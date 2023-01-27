@@ -12,9 +12,11 @@ dependencies:
   flutter:
     sdk: flutter
   html: '>=0.15.0 <1.0.0'
-  flutter_html: ^3.0.0-alpha.7
-#  flutter_html:
-#    path: ../..
+#  flutter_html: ^3.0.0-alpha.7
+  flutter_html:
+    git:
+      url: https://github.com/robotoss/flutter_html
+      ref: feature/temp_plugin_use
 
   flutter_layout_grid: '>=1.0.1 <2.0.0'
 
