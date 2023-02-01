@@ -25,32 +25,32 @@ dependencies:
   flutter_html_audio:
     git:
       url: https://github.com/robotoss/flutter_html
-      path: packages
+      path: packages/flutter_html_audio
       ref: feature/temp_plugin_use
   flutter_html_iframe:
     git:
       url: https://github.com/robotoss/flutter_html
-      path: packages
+      path: packages/flutter_html_iframe
       ref: feature/temp_plugin_use
   flutter_html_math:
     git:
       url: https://github.com/robotoss/flutter_html
-      path: packages
+      path: packages/flutter_html_math
       ref: feature/temp_plugin_use
   flutter_html_svg:
     git:
       url: https://github.com/robotoss/flutter_html
-      path: packages
+      path: packages/flutter_html_svg
       ref: feature/temp_plugin_use
   flutter_html_table:
     git:
       url: https://github.com/robotoss/flutter_html
-      path: packages
+      path: packages/flutter_html_table
       ref: feature/temp_plugin_use
   flutter_html_video:
     git:
       url: https://github.com/robotoss/flutter_html
-      path: packages
+      path: packages/flutter_html_video
       ref: feature/temp_plugin_use
 
 dev_dependencies:
